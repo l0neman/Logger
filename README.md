@@ -2,7 +2,7 @@
 
 好用的 Android 日志工具类。
 
-设计和实现请参考博客：[https://l0neman.github.io/2020/07/23/好用的-Android-日志工具](https://l0neman.github.io/2020/07/23/好用的-Android-日志工具)
+设计和实现请参考博客：[https://l0neman.github.io/2020/07/23/好用的-Android-日志工具](https://l0neman.github.io/2020/07/23/好用的-android-日志工具)
 
 
 
