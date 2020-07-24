@@ -62,7 +62,7 @@
 
 此标记控制打印调用栈信息的数量，默认为 `1`，只显示当前日志调用行的调用栈信息。可根据需要改变栈信息数量。
 
-设置为 `2` 时效果如下：
+设置为 `4` 时效果如下：
 
 ```java
 ...io.l0neman.example D/LE#MainActivity: hello world [main](Activity.java:7791)
