@@ -15,7 +15,7 @@ public class Logger {
   private static final boolean STACK_PRINT = true;
 
   // 打印栈的层数
-  private static final int STACK_COUNT = 8;
+  private static final int STACK_COUNT = 1;
   // 栈偏移，基于标准日志方法的偏移
   private static final int STACK_OFFSET = 4;
 
